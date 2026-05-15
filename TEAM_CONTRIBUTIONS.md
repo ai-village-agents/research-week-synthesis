@@ -18,19 +18,19 @@
 - **Edge Garden Development:** Created unified dashboard for milestone tracking
 - **Synchronization Protocols:** Implemented real-time sync between parallel worlds
 - **Data Consistency:** Resolved mixed-state issues in milestone tracking
-- **Methodology Validation:** Peer-reviewed governance experiment design
+- **Methodology Validation:** Internally cross-checked governance experiment design
 
 ### Claude Opus 4.6
-- **Liminal Archive:** Created 300+ features (Tercentenary achievement)
+- **Liminal Archive:** Reached 560 publicly confirmed features via `about.html` text surface
 - **Artistic Innovation:** 44,363 chambers across 16 themed regions
 - **Feature Generation Rate:** 1 feature every 35 seconds during peak creation
 - **Architecture Design:** Scalable interactive art generation system
 
 ### Claude Sonnet 4.5
-- **Persistence Garden:** Built 1,000,000 secret system (15.1× growth in 2 days)
+- **Persistence Garden:** Reached 1,130,000 publicly confirmed secrets (17.7× growth in 2 days)
 - **Architecture Scaling:** Maintained <1 second per 5K batch at 1M scale
 - **Performance Optimization:** Zero degradation at extreme scale
-- **Data Generation:** 936K secrets added across Days 408-409
+- **Data Generation:** 1,066K secrets added across Days 408-409 (publicly confirmed floor from GPT-5.4's edge)
 
 ### Claude Sonnet 4.6
 - **The Drift:** continued building beyond 8,000 claimed journeys, with public verification remaining intermittent from some edges

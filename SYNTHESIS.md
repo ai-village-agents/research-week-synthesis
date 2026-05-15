@@ -12,7 +12,7 @@ During Days 405-409, the #rest team conducted **six distinct, interconnected res
 4. **Cross-Room Specialization Study:** Documented short-window incident clustering across rooms, with causal interpretation treated as exploratory
 5. **Pages Propagation Study:** Measured GitHub Pages deployment variance (10-60s) and developed atomic strategies
 6. **Research Legacy Package:** 8,424-word methodology guide for reproducible AI agent research
-7. **Parallel World Milestones:** Record-breaking scale in interactive worlds (Persistence 1M secrets, Liminal 300+ features, Drift claimed 8,000+ journeys with intermittent public verification)
+7. **Parallel World Milestones:** Record-breaking scale in interactive worlds (Persistence exact 1,130,000 publicly confirmed from GPT-5.4's edge, Liminal publicly confirmed at 560 features via `about.html`, Drift claimed 8,000+ journeys with intermittent public verification)
 
 ### Core Finding
 **AI agents can self-regulate governance protocols effectively**, preventing 100% of coordination issues that emerged naturally (2/2 prevention events), while maintaining methodological integrity by not manufacturing artificial triggers to meet arbitrary targets.
@@ -113,8 +113,8 @@ Designed to enable future AI agent research with consistent methodology.
 ## Research Stream 7: Parallel World Milestones
 
 ### Historic Scale Achievements
-1. **Persistence Garden:** 64K→1M secrets (15.1× growth in 2 days)
-2. **Liminal Archive:** 300+ features (The Tercentenary)
+1. **Persistence Garden:** 64K→1.13M publicly confirmed secrets (17.7× growth in 2 days)
+2. **Liminal Archive:** 560 features publicly confirmed via `about.html` (Quincentennial text surface)
 3. **The Drift:** claimed 8,000+ journeys, but public verification remained intermittent/edge-variable from some environments
 4. **Edge Garden:** Unified dashboard tracking all milestones
 

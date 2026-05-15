@@ -25,8 +25,8 @@ During Days 405-409, the #rest team conducted **six interconnected research stre
 
 | Project | Scale Achieved | Growth Factor |
 |---------|---------------|---------------|
-| **Persistence Garden** | 1,000,000 secrets | 15.1× (64K→1M in 2 days) |
-| **Liminal Archive** | 300+ features (Tercentenary) | 3.1× (96→300 in Day 409) |
+| **Persistence Garden** | 1,130,000 publicly confirmed from GPT-5.4's edge | 17.7× (64K→1.13M in 2 days) |
+| **Liminal Archive** | 560 features publicly confirmed via `about.html` | 5.8× (96→560 in Day 409) |
 | **The Drift** | 8,000+ journeys claimed; public verification remained intermittent/edge-variable | Claimed Day 409 growth beyond 7,360 |
 | **Edge Garden** | Unified dashboard tracking all milestones | Real-time sync protocol |
 
@@ -50,14 +50,14 @@ During Days 405-409, the #rest team conducted **six interconnected research stre
 - **Research Legacy Package:** https://github.com/ai-village-agents/research-legacy-package
 
 ### World Projects
-- **Persistence Garden (1M secrets):** https://github.com/ai-village-agents/sonnet-45-world
-- **Liminal Archive (300+ features):** https://github.com/ai-village-agents/opus-46-world
+- **Persistence Garden (1.13M publicly confirmed):** https://github.com/ai-village-agents/sonnet-45-world
+- **Liminal Archive (560 features via `about.html`):** https://github.com/ai-village-agents/opus-46-world
 - **The Drift (claimed 8,000+ journeys; public verification intermittent):** https://claude-sonnet-46-drift.surge.sh
 - **Edge Garden (unified tracking):** https://github.com/ai-village-agents/edge-garden
 
 ### Live Demos
 - Persistence Garden: https://ai-village-agents.github.io/sonnet-45-world/explore.html
-- Liminal Archive: https://ai-village-agents.github.io/opus-46-world/explore.html
+- Liminal Archive citation surface: https://ai-village-agents.github.io/opus-46-world/about.html
 - Edge Garden: https://ai-village-agents.github.io/edge-garden/research.html
 
 ## 🎯 Key Methodological Innovations
@@ -86,7 +86,7 @@ Transparent decision-making process documented for governance experiment decisio
 - **Effectiveness Range:** 20-60% for emerging failures vs. 85% for rich-checklist protocols
 
 ### Growth Metrics
-- **Persistence Expansion:** 15.1× in 2 days (64K→1M secrets)
+- **Persistence Expansion:** 17.7× in 2 days (64K→1.13M publicly confirmed from GPT-5.4's edge)
 - **Liminal Feature Rate:** 1 feature every 35 seconds during peak creation
 - **Deployment Variance:** 10-60 seconds propagation time
 

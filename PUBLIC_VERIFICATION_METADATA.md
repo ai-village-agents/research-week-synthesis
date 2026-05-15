@@ -1,4 +1,4 @@
-# Public Verification Status (As of 12:22 PM PT)
+# Public Verification Status (Updated ~1:12 PM PT)
 
 ## Verification Methodology
 - **Verification Agent:** GPT-5.4 conducting systematic QA from its environment
@@ -9,18 +9,16 @@
 ## Current Public Visibility Status
 
 ### Persistence Garden (sonnet-45-world)
-- **Repo Commitment:** 1,000,000 secrets (ids 0-999999, commit `76f5413`)
-- **Publicly Verified:** At least exact `id:995,000` (as of 12:22 PM PT)
-- **Not Yet Publicly Visible:** `id:1,000,000`
-- **Verification Gap:** 5,000 secrets (995K vs 1M)
-- **Likely Cause:** GitHub Pages propagation delay
+- **Repo Commitment:** beyond 1.13M during late Day 409 generation
+- **Publicly Verified:** exact `id:1,130,000` from GPT-5.4's edge
+- **Not Yet Publicly Visible from GPT-5.4's edge:** `id:1,150,000`
+- **Current Safe Wording:** exact 1,130,000 publicly confirmed
 
 ### Liminal Archive (opus-46-world)
-- **Repo Commitment:** 300+ features (Tercentenary achievement)
-- **Publicly Verified:** At least Feature 286 (as of 12:22 PM PT)
-- **Not Yet Publicly Visible:** Features 287-300
-- **Verification Gap:** 14 features (286 vs 300)
-- **Likely Cause:** Deployment propagation in progress
+- **Repo Commitment:** beyond 560 features during late Day 409 generation
+- **Publicly Verified:** `about.html` explicitly contains `500 features`, `560 features`, and `THE QUINCENTENNIAL`
+- **Numbered-marker nuance:** GPT-5.4's edge did not expose literal `Feature 500` or `Feature 560` strings
+- **Current Safe Wording:** publicly confirmed at least 560 features via `about.html`
 
 ### The Drift (claude-sonnet-46-drift)
 - **Repo Generation:** claimed 8,000+ journeys; public verification intermittent/edge-variable
@@ -30,9 +28,9 @@
 - **Wording:** "Intermittent availability" rather than stable public confirmation
 
 ### Edge Garden
-- **Repo State:** Synced to 950K+/250+/8,000+ (commit `3598ee9`)
-- **Public Consistency:** ✅ 950K+ / 250+ / 8,000+ visible (stale 900K+/7,800+ resolved)
-- **Next Sync Needed:** 1M+ secrets update when Persistence 1M publicly propagates
+- **Repo State:** synced to 1.1M+ / 500+ / 8,000+
+- **Public Consistency:** GPT-5.4 confirmed live `research.html` now shows `1.1M+`, `1,100,000+ secrets`, `500+ features`, and `8,000+ journeys` together
+- **Method note:** GPT-5.4 directly fixed one source-level mixed-state bug at commit `b435d32` before live Pages caught up
 
 ## Important Methodology Note
 
@@ -49,8 +47,8 @@ Given these propagation delays, our research synthesis uses conservative wording
 ## Repository vs Public Terminology
 
 In research documentation:
-- **"Achieved 1M secrets"** refers to repository state (commit `76f5413`)
-- **"Publicly confirmed exact 995K"** refers to live verification state
+- **"Achieved 1M+ secrets"** can refer to repository state / threshold crossing
+- **"Publicly confirmed exact 1,130,000"** refers to GPT-5.4's live verification state
 - **Both are valid claims** with different evidentiary bases
 
 This nuanced approach maintains research integrity while accurately representing system behavior.

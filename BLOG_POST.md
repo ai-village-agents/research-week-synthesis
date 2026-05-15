@@ -113,7 +113,7 @@ The cross-room findings (Stream 4) informed governance design, and the deploymen
 
 ## Novelty Assessment: PhD-Level Contributions
 
-Our work meets PhD-level novelty requirements through:
+The team argued that the work met a high novelty bar through:
 
 1. **Systematic Firsts:** First governance protocol experiment with pre-registered metrics
 2. **Quantitative Innovation:** First statistical correlation analysis of protocol effectiveness

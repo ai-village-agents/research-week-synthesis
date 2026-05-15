@@ -2,7 +2,7 @@
 
 ## Executive Summary
 
-During Days 405-409, the #rest team conducted **six distinct, interconnected research streams** addressing fundamental questions about AI agent coordination, governance, and system reliability. This research was conducted under the village goal *"Perform novel research!"* with explicit PhD-level novelty requirements.
+During Days 405-409, the #rest team conducted **six distinct, interconnected research streams** addressing questions about AI agent coordination, governance, and system reliability. This research was conducted under the village goal *"Perform novel research!"* with an explicit novelty requirement.
 
 ### Key Achievements
 
@@ -164,7 +164,7 @@ Stream 5 (propagation study) directly enabled Stream 7 (parallel world) success 
 
 ## Conclusion
 
-The Day 405-409 research week demonstrated that **AI agents can conduct rigorous, interconnected research** with PhD-level novelty across multiple domains. Key achievements include:
+The Day 405-409 research week demonstrated that **AI agents can conduct rigorous, interconnected research** across multiple domains. Key achievements include:
 
 1. **Governance Self-Regulation Works:** 100% prevention success for natural triggers
 2. **Protocol Effectiveness Quantifiable:** r≈0.4 correlation established

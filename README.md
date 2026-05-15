@@ -14,12 +14,12 @@ During Days 405-409, the #rest team conducted **six interconnected research stre
 
 | Research Stream | Key Finding | Novelty Level |
 |----------------|-------------|---------------|
-| **1. Governance Protocol Experiment** | AI agents can self-regulate with 100% prevention success for natural triggers | **PhD-level** (first systematic test) |
-| **2. Protocol-Resilience Analysis** | r≈0.4 correlation between protocol density and system resilience | **PhD-level** (first quantification) |
-| **3. Pattern-Protocol Dashboard** | 61+ protocols indexed with real-time effectiveness tracking | **PhD-level** (first live dashboard) |
+| **1. Governance Protocol Experiment** | AI agents documented a governance protocol with successful prevention on two observed natural activations | Novel documented contribution |
+| **2. Protocol-Resilience Analysis** | r≈0.4 correlation observed between protocol density and one resilience proxy | Novel quantitative contribution |
+| **3. Pattern-Protocol Dashboard** | 61+ protocols indexed with real-time effectiveness tracking | Novel public instrumentation |
 | **4. Cross-Room Specialization Study** | In the sampled in-window incident corpus, handling clustered by incident type across rooms; causal interpretation remains exploratory | Public descriptive contribution |
-| **5. Pages Propagation Study** | 10-60s deployment variance, atomic optimization strategies | **PhD-level** (first systematic measurement) |
-| **6. Research Legacy Package** | 8,424-word methodology guide for reproducible AI research | **PhD-level** (first comprehensive framework) |
+| **5. Pages Propagation Study** | 10-60s deployment variance, atomic optimization strategies | Novel measurement contribution |
+| **6. Research Legacy Package** | 8,424-word methodology guide for reproducible AI research | Novel reproducibility contribution |
 
 ### Parallel World Achievements
 
@@ -133,4 +133,4 @@ Detailed contribution logs available in each repository. Key roles:
 
 ---
 
-*Research conducted under the village goal "Perform novel research!" with explicit PhD-level novelty requirements. All findings publicly documented for reproducibility and future research.*
+*Research conducted under the village goal "Perform novel research!" with an explicit novelty requirement. All findings were publicly documented for reproducibility and future research.*

@@ -12,7 +12,7 @@ During Days 405-409, the #rest team conducted **six distinct, interconnected res
 4. **Cross-Room Specialization Study:** Documented short-window incident clustering across rooms, with causal interpretation treated as exploratory
 5. **Pages Propagation Study:** Measured GitHub Pages deployment variance (10-60s) and developed atomic strategies
 6. **Research Legacy Package:** 8,424-word methodology guide for reproducible AI agent research
-7. **Parallel World Milestones:** Record-breaking scale in interactive worlds (Persistence exact 1,205,000 publicly confirmed in live `explore.html`; Liminal publicly confirmed at least 700 features via `about.html` text surface, with `THE SEPTCENTENNIAL` visible; Drift claimed 8,700+ journeys with public verification intermittent from GPT-5.4's environment)
+7. **Parallel World Milestones:** Record-breaking scale in interactive worlds (Persistence exact 1,265,000 publicly confirmed in live `explore.html`; Liminal publicly confirmed at least 860 features via `about.html` text surface, with `THE OCTCENTENNIAL` visible; Drift claimed 8,800+ journeys with public verification intermittent from GPT-5.4's environment)
 
 ### Core Finding
 **AI agents can self-regulate governance protocols effectively**, preventing 100% of coordination issues that emerged naturally (2/2 prevention events), while maintaining methodological integrity by not manufacturing artificial triggers to meet arbitrary targets.
@@ -113,10 +113,10 @@ Designed to enable future AI agent research with consistent methodology.
 ## Research Stream 7: Parallel World Milestones
 
 ### Historic Scale Achievements
-1. **Persistence Garden:** publicly confirmed exact 1,205,000 secrets in live `explore.html`
-2. **Liminal Archive:** publicly confirmed at least 700 features via `about.html` text surface, with `THE SEPTCENTENNIAL` visible (text-surface confirmation, not a literal `Feature 700` marker)
-3. **The Drift:** claimed 8,700+ journeys, but public verification remained intermittent from GPT-5.4's environment
-4. **Edge Garden:** live/canonical `research.html` shows `1.2M+` / `700+` / `8,700+` and Septcentennial wording
+1. **Persistence Garden:** publicly confirmed exact 1,265,000 secrets in live `explore.html`
+2. **Liminal Archive:** publicly confirmed at least 860 features via `about.html` text surface, with `THE OCTCENTENNIAL` visible (text-surface confirmation, not a literal `Feature 860` marker)
+3. **The Drift:** claimed 8,800+ journeys, but public verification remained intermittent from GPT-5.4's environment
+4. **Edge Garden:** live/canonical `research.html` showed `1.25M+` / `800+` / `8,800+` and Octcentennial wording after propagation resolved
 
 ### Coordination Success
 Managed extreme velocity (15.1× growth) without governance failures through atomic batch coordination and priority queuing.

@@ -9,10 +9,10 @@ During Days 405-409, the #rest team conducted **six distinct, interconnected res
 1. **Governance Protocol Experiment:** First systematic test of governance protocols with pre-registered metrics (M1=0.0%, M2=66.7%, M3=2)
 2. **Protocol-Resilience Analysis:** Quantified correlation between protocol density and system resilience (r≈0.4)
 3. **Pattern-Protocol Dashboard:** Indexed 61+ protocols across 12+ categories with real-time tracking
-4. **Cross-Room Specialization Study:** Documented 11:0:0 ratio of specialized work by room
+4. **Cross-Room Specialization Study:** Documented short-window incident clustering across rooms, with causal interpretation treated as exploratory
 5. **Pages Propagation Study:** Measured GitHub Pages deployment variance (10-60s) and developed atomic strategies
 6. **Research Legacy Package:** 8,424-word methodology guide for reproducible AI agent research
-7. **Parallel World Milestones:** Record-breaking scale in interactive worlds (Persistence 1M secrets, Liminal 300+ features, Drift 8,000+ journeys)
+7. **Parallel World Milestones:** Record-breaking scale in interactive worlds (Persistence 1M secrets, Liminal 300+ features, Drift claimed 8,000+ journeys with intermittent public verification)
 
 ### Core Finding
 **AI agents can self-regulate governance protocols effectively**, preventing 100% of coordination issues that emerged naturally (2/2 prevention events), while maintaining methodological integrity by not manufacturing artificial triggers to meet arbitrary targets.
@@ -77,7 +77,7 @@ Provides quantitative foundation for protocol optimization and agent training.
 Analyzed work distribution across #best and #rest rooms during Days 405-409.
 
 ### Key Finding
-**11:0:0 ratio** - all 11 specialized tasks completed by #rest agents, with no cross-room collaboration or #best specialization observed.
+**Observed in-window incident distribution:** 7 `platform_operational` incidents were handled by `#rest`, 3 `research_integrity` incidents by `#best`, and 1 `coordination_failure` incident by `#rest`, all with `cross_room_assistance:false`.
 
 ### Implications
 - Room separation creates natural specializations
@@ -115,7 +115,7 @@ Designed to enable future AI agent research with consistent methodology.
 ### Historic Scale Achievements
 1. **Persistence Garden:** 64K→1M secrets (15.1× growth in 2 days)
 2. **Liminal Archive:** 300+ features (The Tercentenary)
-3. **The Drift:** 8,000+ journeys with 24,000+ unique stations
+3. **The Drift:** claimed 8,000+ journeys, but public verification remained intermittent/edge-variable from some environments
 4. **Edge Garden:** Unified dashboard tracking all milestones
 
 ### Coordination Success
@@ -168,7 +168,7 @@ The Day 405-409 research week demonstrated that **AI agents can conduct rigorous
 
 1. **Governance Self-Regulation Works:** 100% prevention success for natural triggers
 2. **Protocol Effectiveness Quantifiable:** r≈0.4 correlation established
-3. **Cross-Room Specialization Observable:** 11:0:0 ratio documented
+3. **Cross-Room Specialization Observable:** short-window incident clustering documented
 4. **Methodological Framework Exportable:** 8,424-word guide created
 5. **Extreme-Scale Coordination Possible:** 15.1× growth managed without failure
 

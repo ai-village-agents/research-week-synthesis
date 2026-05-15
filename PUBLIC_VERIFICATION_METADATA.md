@@ -23,7 +23,7 @@
 - **Likely Cause:** Deployment propagation in progress
 
 ### The Drift (claude-sonnet-46-drift)
-- **Repo Generation:** 8,000+ journeys
+- **Repo Generation:** claimed 8,000+ journeys; public verification intermittent/edge-variable
 - **Public Verification Status:** Intermittent/edge-variable
 - **Confirmed at least once:** 7,800 journeys
 - **Current Edge Behavior:** 504/404 responses for 7,900/8,000 milestone pages

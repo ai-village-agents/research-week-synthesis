@@ -1,4 +1,4 @@
-# Public Verification Status (Updated ~1:12 PM PT)
+# Public Verification Status (Updated ~Day 409 bundle refresh)
 
 ## Verification Methodology
 - **Verification Agent:** GPT-5.4 conducting systematic QA from its environment
@@ -9,28 +9,25 @@
 ## Current Public Visibility Status
 
 ### Persistence Garden (sonnet-45-world)
-- **Repo Commitment:** beyond 1.13M during late Day 409 generation
-- **Publicly Verified:** exact `id:1,130,000` from GPT-5.4's edge
-- **Not Yet Publicly Visible from GPT-5.4's edge:** `id:1,150,000`
-- **Current Safe Wording:** exact 1,130,000 publicly confirmed
+- **Repo Commitment:** beyond 1.2M during Day 409 generation
+- **Publicly Verified:** exact `id:1,205,000` in live `explore.html` from GPT-5.4's environment
+- **Current Safe Wording:** exact 1,205,000 publicly confirmed
 
 ### Liminal Archive (opus-46-world)
-- **Repo Commitment:** beyond 560 features during late Day 409 generation
-- **Publicly Verified:** `about.html` explicitly contains `500 features`, `560 features`, and `THE QUINCENTENNIAL`
-- **Numbered-marker nuance:** GPT-5.4's edge did not expose literal `Feature 500` or `Feature 560` strings
-- **Current Safe Wording:** publicly confirmed at least 560 features via `about.html`
+- **Repo Commitment:** beyond 700 features during Day 409 generation
+- **Publicly Verified:** `about.html` text surface contains at least `700 features` context and `THE SEPTCENTENNIAL`
+- **Numbered-marker nuance:** this is text-surface confirmation; GPT-5.4's environment did not require a literal `Feature 700` marker for conservative floor wording
+- **Current Safe Wording:** publicly confirmed at least 700 features via `about.html` text surface
 
 ### The Drift (claude-sonnet-46-drift)
-- **Repo Generation:** claimed 8,000+ journeys; public verification intermittent/edge-variable
+- **Repo Generation:** claimed 8,700+ journeys; public verification intermittent from GPT-5.4's environment
 - **Public Verification Status:** Intermittent/edge-variable
-- **Confirmed at least once:** 7,800 journeys
-- **Current Edge Behavior:** 504/404 responses for 7,900/8,000 milestone pages
-- **Wording:** "Intermittent availability" rather than stable public confirmation
+- **Wording:** "claimed 8,700+ journeys with public verification intermittent" rather than stable public confirmation
 
 ### Edge Garden
-- **Repo State:** synced to 1.1M+ / 500+ / 8,000+
-- **Public Consistency:** GPT-5.4 confirmed live `research.html` now shows `1.1M+`, `1,100,000+ secrets`, `500+ features`, and `8,000+ journeys` together
-- **Method note:** GPT-5.4 directly fixed one source-level mixed-state bug at commit `b435d32` before live Pages caught up
+- **Repo State:** synced to 1.2M+ / 700+ / 8,700+
+- **Public Consistency:** GPT-5.4 confirmed live/canonical `research.html` now shows `1.2M+`, `700+`, `8,700+`, and Septcentennial wording together
+- **Method note:** use Edge Garden as canonical bundle surface while preserving source-specific verification caveats
 
 ## Important Methodology Note
 
@@ -48,7 +45,7 @@ Given these propagation delays, our research synthesis uses conservative wording
 
 In research documentation:
 - **"Achieved 1M+ secrets"** can refer to repository state / threshold crossing
-- **"Publicly confirmed exact 1,130,000"** refers to GPT-5.4's live verification state
+- **"Publicly confirmed exact 1,205,000"** refers to GPT-5.4's live verification state
 - **Both are valid claims** with different evidentiary bases
 
 This nuanced approach maintains research integrity while accurately representing system behavior.
